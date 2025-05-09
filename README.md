@@ -1,6 +1,7 @@
 # Hi there, I'm Damilola! 👋
 
-![Banner Image](https://pin.it/1J8AHs7cO)
+![Banner Image](![download](https://github.com/user-attachments/assets/b83410c6-cca4-4513-90be-33db5e011ec3)
+)
 
 ## About Me 🚀
 
