@@ -25,7 +25,7 @@ I'm a passionate FullStack Developer with experience in HTML5, CSS3, React.js, T
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Project 1 Title][(project_1_link](https://damilola-nengi-portfolio.vercel.app/))
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
